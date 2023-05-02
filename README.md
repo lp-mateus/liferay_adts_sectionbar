@@ -1,0 +1,1 @@
+# liferay_adts_sectionbar
